@@ -15,6 +15,8 @@ Just paste a link or search to download your video. The available formats are mp
 
 ## Screenshots
 ![](1.jpg)
+![](2.jpg)
+![](3.jpg)
 
 
 ## Available Scripts
