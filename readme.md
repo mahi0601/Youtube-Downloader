@@ -13,14 +13,7 @@ Just paste a link or search to download your video. The available formats are mp
 - Also usable on iOS & Android
 
 
-
-## Coming soon (See Preview down below)
-- New design with an UI Framework
-- Login into Spotify and select your playlist which you want to download
-- Sidebar with the already downloaded songs
-- Electron desktop app (.exe file downloadable)
-
-## V1
+## Screenshots
 ![](https://raw.githubusercontent.com/bennymeier/new-youtube-downloader/master/screenshot.PNG)
 ![](https://raw.githubusercontent.com/bennymeier/new-youtube-downloader/master/screenshot_1.PNG)
 
