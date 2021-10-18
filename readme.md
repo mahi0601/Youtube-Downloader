@@ -14,8 +14,7 @@ Just paste a link or search to download your video. The available formats are mp
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/bennymeier/new-youtube-downloader/master/screenshot.PNG)
-![](https://raw.githubusercontent.com/bennymeier/new-youtube-downloader/master/screenshot_1.PNG)
+![](1.jpg)
 
 
 ## Available Scripts
